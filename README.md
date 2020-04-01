@@ -2,5 +2,5 @@
 ## Integrantes
 
 * Franklin Molina
-*Santy Salazar
+* Santy Salazar
 * Jesus Narvaez
