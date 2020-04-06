@@ -1,4 +1,4 @@
-# L4G05_Parcial.1_Atomatizacion de la Conexion de base de datos
+# L4G05_Parcial.1_Automatización de la Conexion de base de datos
 ## Integrantes
 
 * Franklin Molina
